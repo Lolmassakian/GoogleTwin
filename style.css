@@ -1,7 +1,17 @@
 #title {
-    color:rgba(53, 162, 235, 0.932);
+    font-size: 35px;
+    color:rgba(14, 157, 252, 0.932);
 }
 .paragraph{
-    font-size: 30px;
-    color: rgb(62, 205, 248);
+    font-size: 20px;
+    color: rgb(60, 162, 245);
+}
+.heading{
+    font: size 25px;
+    color: rgb(29, 132, 216);
+    font-family:'Franklin Gothic Medium';
+}
+.list{
+    font-size: 20px;
+    color: rgb(3, 133, 3);
 }
